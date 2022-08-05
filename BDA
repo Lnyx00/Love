@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T01:13:14.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="R-JTTg6SJV_B0goSZxiQ" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-05T01:19:10.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4h8tbb-OAzxdSdxaaMwc" version="20.2.3" type="github" pages="2">
   <diagram id="ZgFqERfT7H0dIv6XHzEO" name="Halaman-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,32 +49,56 @@
             <mxPoint x="281.68000000000006" y="320.4899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZNl9grGEfE2OZIv_j3L-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CZNl9grGEfE2OZIv_j3L-7">
+        <mxCell id="CZNl9grGEfE2OZIv_j3L-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CZNl9grGEfE2OZIv_j3L-7" target="MJRUKpxRUvO7sOOuFRJb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="260" as="sourcePoint" />
             <mxPoint x="510" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZNl9grGEfE2OZIv_j3L-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="CZNl9grGEfE2OZIv_j3L-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MJRUKpxRUvO7sOOuFRJb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="290" as="sourcePoint" />
             <mxPoint x="510" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZNl9grGEfE2OZIv_j3L-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="CZNl9grGEfE2OZIv_j3L-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.021;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MJRUKpxRUvO7sOOuFRJb-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="399.9999999999999" as="sourcePoint" />
             <mxPoint x="510" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZNl9grGEfE2OZIv_j3L-22" value="Export csv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="150" width="60" height="30" as="geometry" />
+        <mxCell id="CZNl9grGEfE2OZIv_j3L-22" value="Export csv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CZNl9grGEfE2OZIv_j3L-23" value="Export csv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="255" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CZNl9grGEfE2OZIv_j3L-24" value="Export csv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="CZNl9grGEfE2OZIv_j3L-24" value="Export csv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-2" value="LOCAL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="237.5" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="840" y="252.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MJRUKpxRUvO7sOOuFRJb-1" target="MJRUKpxRUvO7sOOuFRJb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="sourcePoint" />
+            <mxPoint x="570" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-7" value="&lt;h1&gt;Mysql&amp;nbsp;&lt;/h1&gt;&lt;div&gt;172.18.136.12&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="160" width="125" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MJRUKpxRUvO7sOOuFRJb-8" value="Alurnya -&amp;gt; jika ada project bda yana menggunakan database HBASE dev maka teman-teman bda wajib mengexport datanya minimal 20 setelah itu di kirim ke teman teman dqc&lt;br&gt;temen-teman dqc melakukan impor ke mysql dev yang dimilika teman-teman BDA&lt;br&gt;kenapa ini dilakukan agar terhindar dari matinya server BDA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="490" width="730" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
